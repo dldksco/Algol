@@ -1,7 +1,8 @@
+package BOJ;
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class BOJ_16234 {
 	static int N;
 	static int L;
 	static int R;

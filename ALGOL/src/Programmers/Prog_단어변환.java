@@ -1,7 +1,7 @@
 package Programmers;
 import java.util.*;
 
-class Solution {
+class Prog_단어변환 {
     boolean visited[];
     public int solution(String begin, String target, String[] words) {
         int answer = 0;

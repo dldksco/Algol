@@ -1,6 +1,6 @@
 package Programmers;
 import java.util.*;
-class Solution {
+class Prog_모음사전 {
     List<String> dict = new ArrayList();
     String[] str = {"A","E","I","O","U"};
     public int solution(String word) {
