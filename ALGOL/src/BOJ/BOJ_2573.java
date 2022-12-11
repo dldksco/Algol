@@ -1,3 +1,4 @@
+package BOJ;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
@@ -8,7 +9,7 @@ import java.util.Deque;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ_2573 {
 	static int N, M;
 	static int map[][];
 	static List<Ice> ice;
