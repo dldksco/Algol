@@ -1,3 +1,5 @@
+package BOJ;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
@@ -6,7 +8,7 @@ import java.util.Deque;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ_1261 {
 	static int N, M;
 	static int map[][][];
 	static int[] dx = { 0, 0, -1, 1 };
@@ -14,7 +16,6 @@ public class Main {
 	static Deque<Node> q = new ArrayDeque<>();
 	static int nx, x;
 	static int ny, y, cnt;
-
 	public static void main(String[] args) throws Exception {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(bf.readLine());

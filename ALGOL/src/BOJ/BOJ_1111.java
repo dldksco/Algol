@@ -1,3 +1,5 @@
+package BOJ;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayDeque;
@@ -6,7 +8,7 @@ import java.util.Deque;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ_1111 {
 	static int N;
 	static int map[];
 	static int a, b;
