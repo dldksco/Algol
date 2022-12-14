@@ -1,7 +1,8 @@
+package Softeer;
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class Softeer_플레이페어암호 {
 	static char[][] map = new char[5][5];
 	static int idxF;
 	static int idxS;
