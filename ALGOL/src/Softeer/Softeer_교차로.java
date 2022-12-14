@@ -1,8 +1,9 @@
+package Softeer;
 import java.util.*;
 import java.io.*;
 
 
-public class Main
+public class Softeer_교차로
 {
        static Deque<car> A = new ArrayDeque<>();
         static int sizeA=0;
