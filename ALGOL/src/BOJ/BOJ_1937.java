@@ -1,7 +1,8 @@
+package BOJ;
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class BOJ_1937 {
 	static int N;
 	static int map[][];
 	static int dx[] = { 0, 0, -1, 1 };
