@@ -1,8 +1,9 @@
+package Softeer;
 import java.util.*;
 import java.io.*;
 
 
-public class Main
+public class Softeer_슈퍼컴퓨터_클러스터
 {
     static int N;
     static long B;
