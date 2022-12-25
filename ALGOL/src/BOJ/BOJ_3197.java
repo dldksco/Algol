@@ -1,7 +1,8 @@
+package BOJ;
 import java.util.*;
 import java.io.*;
 
-class Main {
+class BOJ_3197 {
 	static int R;
 	static int C;
 	static int N = 0;
@@ -18,10 +19,6 @@ class Main {
 	static boolean[][] visited;
 	static int size;
 
-	// 치즈갯수샐꺼야
-	// 공기와 맞닿은 치즈 탐색 큐에넣음 넣으면서 값2
-	// 다음턴 큐꺼내면서 체크 1인놈들 큐에넣어줌
-	// 큐 비었는데 치즈 살아있으면 다시반복
 	public static void main(String[] args) throws Exception {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(bf.readLine());
