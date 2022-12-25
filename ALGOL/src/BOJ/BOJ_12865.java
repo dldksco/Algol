@@ -1,7 +1,8 @@
+package BOJ;
 import java.util.*;
 import java.io.*;
 
-class Main {
+class BOJ_12865 {
 	static int N;
 	static int K;
 	static List<int[]> env = new ArrayList<>();;
